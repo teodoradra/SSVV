@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84c88d9e-244a-4d3c-82f7-ce5233ac4c42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pZn7aahSaRsdUXdJnuwaqvY8dM" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Facultate\Anul 3\Semestrul 2\Verificarea si validarea sistemelor soft\Labs\Lab 2\Lab2_Todos" />
+      <recent name="D:\Facultate\Anul 3\Semestrul 2\Verificarea si validarea sistemelor soft\Labs\Lab 2\Lab2_Todos\src\main\java\ssv\lab2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AppTestTHBBT">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssv.lab2.App" />
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssv.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTestTHBBT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssv.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ssv.lab2" />
+      <option name="MAIN_CLASS_NAME" value="ssv.lab2.AppTestTHBBT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTestTHBBT.TC4_BBT_EC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssv.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ssv.lab2" />
+      <option name="MAIN_CLASS_NAME" value="ssv.lab2.AppTestTHBBT" />
+      <option name="METHOD_NAME" value="TC4_BBT_EC" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTestTHBBT.TC5_BBT_BVA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssv.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ssv.lab2" />
+      <option name="MAIN_CLASS_NAME" value="ssv.lab2.AppTestTHBBT" />
+      <option name="METHOD_NAME" value="TC5_BBT_BVA" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTestTHBBT.testAddStudentSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssv.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ssv.lab2" />
+      <option name="MAIN_CLASS_NAME" value="ssv.lab2.AppTestTHBBT" />
+      <option name="METHOD_NAME" value="testAddStudentSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTestTHBBT" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.AppTestTHBBT.TC5_BBT_BVA" />
+        <item itemvalue="JUnit.AppTestTHBBT.testAddStudentSuccess" />
+        <item itemvalue="JUnit.AppTestTHBBT.TC4_BBT_EC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84c88d9e-244a-4d3c-82f7-ce5233ac4c42" name="Default Changelist" comment="" />
+      <created>1615399313550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615399313550</updated>
+      <workItem from="1615399318595" duration="977000" />
+      <workItem from="1615400321505" duration="121000" />
+      <workItem from="1615400465149" duration="4912000" />
+      <workItem from="1615652478764" duration="1026000" />
+      <workItem from="1616165588133" duration="91000" />
+      <workItem from="1616251715851" duration="1455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="94" width="1349" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1615402496999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="94" y="94" width="1349" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824/-1920.628.1920.1040@0.0.1536.824" timestamp="1615402496999" />
+    <state x="550" y="171" key="FileChooserDialogImpl" timestamp="1615400437910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="171" key="FileChooserDialogImpl/0.0.1536.824/-1920.628.1920.1040@0.0.1536.824" timestamp="1615400437910" />
+    <state width="1492" height="261" key="GridCell.Tab.0.bottom" timestamp="1616255325994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.628.1920.1040@0.0.1536.824" timestamp="1616255325994" />
+    <state width="1492" height="261" key="GridCell.Tab.0.center" timestamp="1616255325994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1920.628.1920.1040@0.0.1536.824" timestamp="1616255325994" />
+    <state width="1492" height="261" key="GridCell.Tab.0.left" timestamp="1616255325994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1920.628.1920.1040@0.0.1536.824" timestamp="1616255325994" />
+    <state width="1492" height="261" key="GridCell.Tab.0.right" timestamp="1616255325994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1920.628.1920.1040@0.0.1536.824" timestamp="1616255325994" />
+    <state x="262" y="68" key="SettingsEditor" timestamp="1615400441579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="262" y="68" key="SettingsEditor/0.0.1536.824/-1920.628.1920.1040@0.0.1536.824" timestamp="1615400441579" />
+    <state x="-1321" y="932" key="com.intellij.ide.util.TipDialog" timestamp="1616165665162">
+      <screen x="-1920" y="628" width="1920" height="1040" />
+    </state>
+    <state x="-1321" y="932" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.628.1920.1040@-1920.628.1920.1040" timestamp="1616165665162" />
+    <state x="479" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.628.1920.1040@0.0.1536.824" timestamp="1615400482735" />
+    <state x="472" y="168" width="592" height="488" key="find.popup" timestamp="1615402850803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="472" y="168" width="592" height="488" key="find.popup/0.0.1536.824/-1920.628.1920.1040@0.0.1536.824" timestamp="1615402850803" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ssv/lab2/service/Service.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
